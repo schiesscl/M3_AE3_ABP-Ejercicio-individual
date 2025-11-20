@@ -2,15 +2,15 @@
 
 ## Hans Schiess
 
-## 📋 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este programa en Python implementa un sistema inteligente de cálculo de descuentos para compras, considerando múltiples criterios como cantidad de productos, historial del cliente, monto total y días de promoción especial.
 
-## 🎯 Objetivo
+## Objetivo
 
 Determinar automáticamente el descuento aplicable a una compra según criterios específicos, garantizando que ningún cliente obtenga un descuento superior al 30% del total.
 
-## 📊 Criterios de Descuento
+## Criterios de Descuento
 
 El sistema aplica descuentos acumulativos basados en las siguientes condiciones:
 
@@ -70,7 +70,7 @@ El sistema aplica descuentos acumulativos basados en las siguientes condiciones:
 - ✅ Todas las variables y funciones usan `snake_case`
 - ✅ Código documentado con docstrings
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 ### Requisitos Previos
 
@@ -127,7 +127,7 @@ Total a pagar: $420.00
 - `times_bought_input`: Historial de compras del cliente
 - `sale_day_input`: Indicador de día promocional
 
-## 📈 Diagrama de Flujo
+## Diagrama de Flujo
 
 El programa sigue la lógica representada en el diagrama de flujo adjunto, evaluando secuencialmente cada condición:
 
@@ -137,25 +137,25 @@ El programa sigue la lógica representada en el diagrama de flujo adjunto, evalu
 4. **¿Día de promoción?** → +15% descuento
 5. **Límite a 30%** → Retornar descuento final
 
-## 🛡️ Manejo de Errores
+## Manejo de Errores
 
 - Validación de entrada numérica con `try-except`
 - Rechazo de precios negativos
 - Mensajes informativos para el usuario
 
-## 📚 Documentación Adicional
+## Documentación Adicional
 
 Para documentación detallada del código, visite:
 
 - **Wiki del Proyecto:** [DeepWiki - M3_AE3_ABP-Ejercicio-individual](https://deepwiki.com/schiesscl/M3_AE3_ABP-Ejercicio-individual)
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es de uso educativo.
 
 ---
 
-## 🔍 Notas de Versión
+## Notas de Versión
 
 ### Versión 1.1 (Actual)
 
